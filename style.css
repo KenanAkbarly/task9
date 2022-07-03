@@ -232,7 +232,7 @@ color:#fff;
     width: 60%;
    position: absolute;
    left: 10px;
-   bottom: -140px;
+   bottom: -170px;
    font-family: 'Ubuntu';
   font-style: normal;
   font-weight: 700;
@@ -253,7 +253,7 @@ color:#fff;
 .hicon2{
     position: absolute;
     bottom: 0;
-    top: 90px;
+    top: 120px;
     left: 100%;
 }
 .h2{
@@ -305,7 +305,7 @@ color:#fff;
 .hicon4{
     position: absolute;
     bottom: 0;
-    top: 360px;
+    top: 390px;
     left: 100%;
 }
 .h4{
@@ -357,7 +357,7 @@ color:#fff;
 .hicon6{
     position: absolute;
     bottom: 0;
-    top: 630px;
+    top: 660px;
     left: 100%;
 }
 .h6{
